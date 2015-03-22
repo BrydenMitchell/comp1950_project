@@ -1,0 +1,4 @@
+header and footer ssi includes:
+
+header:
+footer:
