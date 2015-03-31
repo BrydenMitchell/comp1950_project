@@ -2,23 +2,7 @@
 <html>
 <head>
 	<title>Home page of BCIT COMP 1950</title>
-	<link rel="stylesheet" href="/orion/css/normalize.css" type="text/css" />
-	<link rel="stylesheet" href="/orion/css/main.css" type="text/css" title="Main" />
-	<link rel="stylesheet" href="/orion/css/slimmenu.min.css" type="text/css" />
-	<script src="/orion/js/jquery-2.1.3.min.js"></script>
-	<script src="/orion/js/jquery.slimmenu.min.js"></script>
-	<script>
-		$(document).ready(function () {
-			$('#navigation').slimmenu({
-			    resizeWidth: '800',
-			    collapserTitle: 'Main Menu',
-			    animSpeed: 'medium',
-			    easingEffect: null,
-			    indentChildren: false,
-			    childrenIndenter: '&nbsp;'
-			});
-		});	
-	</script>
+	<!--#include virtual="/orion/headTags.html" -->
 </head>
 <body>
 	<!--#include virtual="/orion/header.html" -->
