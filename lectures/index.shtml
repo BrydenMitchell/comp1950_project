@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home page of BCIT COMP 1950</title>
+	<link rel="stylesheet" href="/orion/css/normalize.css" type="text/css" />
+	<link rel="stylesheet" href="/orion/css/main.css" type="text/css" title="Main" />
+	<link rel="stylesheet" href="/orion/css/slimmenu.min.css" type="text/css" />
+	<script src="/orion/js/jquery-2.1.3.min.js"></script>
+	<script src="/orion/js/jquery.slimmenu.min.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('#navigation').slimmenu({
+			    resizeWidth: '800',
+			    collapserTitle: 'Main Menu',
+			    animSpeed: 'medium',
+			    easingEffect: null,
+			    indentChildren: false,
+			    childrenIndenter: '&nbsp;'
+			});
+		});	
+	</script>
+</head>
+<body>
+	<!--#include virtual="/orion/header.html" -->
+	<div class="bodyContent">
+		<h1>Lecture page content</h1>
+		<p>
+			<a href="/orion/meta/">meta page</a>
+		</p>
+	</div>
+	<!--#include virtual="/orion/footer.html" -->
+</body>
+</html>
