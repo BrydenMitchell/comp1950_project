@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Home page of BCIT COMP 1950</title>
-	<!--#include virtual="/orion/heah4ags.html" -->
+	<!--#include virtual="/orion/headTags.html" -->
 </head>
 <body>
 	<!--#include virtual="/orion/header.html" -->
