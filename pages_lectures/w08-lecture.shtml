@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home page of BCIT COMP 1950</title>
+	<!--#include virtual="/orion/heah4ags.html" -->
+</head>
+<body>
+	<!--#include virtual="/orion/header.html" -->
+	<div class="bodyContent">
+
+<h1 class="page-title">Week Eight</h1>
+  <h2 id="agenda">Agenda</h2>
+
+<ul>
+  <li>Web Project Methodology</li>
+  <li>Your Methodology</li>
+  <li>Project work</li>
+</ul>
+
+<h2 id="web-project-methodology">Web Project Methodology</h2>
+
+<p>How do you start a project?</p>
+
+<p>How do you finish it?</p>
+
+<p>What is needed in order to complete the project?</p>
+
+<p>Having a methodology works for you, your client, your team members and anyone else that is brought in as a stakeholder or participant.  Understanding what will get done and when is paramount to understanding if you will be able to complete a project.</p>
+
+<h3 id="what-is-a-methodology">What is a methodology?</h3>
+
+<p>A methodology is similar to project management, but it is more of an overview of what will happen in order for a project to be completed, rather than the detailed steps involved.   Think of it as a plan on how to get from A to B.  You might have a map, some idea of how you will select your mode of transportation, a recognition of how to calculate your time and the supplies that are needed.</p>
+
+<p>In a methodology, you wouldn&#39;t plan, for instance, the actual snacks required for each leg of your journey (that&#39;s more about Project Management), but you might recognize you would need to prepare for that.</p>
+
+<h3 id="benefits">Benefits</h3>
+
+<p>Having a methodology will keep everyone in the know, but what specific benefits are there?</p>
+
+<ul>
+  <li>Responsibility</li>
+  <li>Trackability</li>
+  <li>Predictability</li>
+  <li>Teamwork</li>
+</ul>
+
+<h4 id="responsibility">Responsibility</h4>
+
+<p>Understanding who is going to be responsible for what is probably the most important part.  This is a demonstration of the work you will be responsible for versus the work the client will be responsible for.</p>
+
+<p>Don&#39;t let the client off the hook, They are jut as responsible as any other team member!</p>
+
+<h4 id="trackability">Trackability</h4>
+
+<p>If you would like to be paid, or at least recognized for the hours that you work, you need to have a method for tracking your work.  Having a methodology that allows you to focus on the appropriate work, and demonstrating that the work was done, is paramount.</p>
+
+<h4 id="predictability">Predictability</h4>
+
+<p>Again, the client and the developer benefit here: Knowing what&#39;s going to happen at each stage of the project is an excellent way to keep the project on track.</p>
+
+<p>While individual tasks, timelines, gantt charts and critical paths are all important, they are the details of project management.  Your methodology will illustrate the overall progress you expect within a project.</p>
+
+<h4 id="teamwork">Teamwork</h4>
+
+<p>More than anything, a good methodology will illustrate how you will work as a team with your client.  You may be a 1-person development shop or a 300-person media development firm, but it all comes down to getting the project done as smoothly as possible.</p>
+
+<h2 id="what-is-your-methodology">What is your methodology?</h2>
+
+<p>I&#39;d like to hear what your methodology is, or what you think it should be.</p>
+
+<p>Do you have experience working on projects?  Have you been a project manager?  Do you have no idea how all this would work?  Do you have a strong opinion?</p>
+
+<p>Working in teams, I&#39;d like you to discuss what you think a good process for getting a web site completed is.  Think about the overall steps that might be required, what information you would need from the client, how you would use that information to progress through to a completed project.</p>
+
+<p>I would like to know (these are in no particular order):</p>
+
+<ul>
+  <li>What stages are needed in order to complete a web project?  What are they?</li>
+  <li>Present some detail on what each stage would entail</li>
+  <li>What information will be needed from the client, and when?</li>
+  <li>What decisions will have to be made, and how will they be done?</li>
+  <li>What other information might you need?</li>
+</ul>
+
+<p>At the end of your group time, you will have one person from your group present your methodology to the class. Nominate one person and use their Tumblr instance you worked on for showing notes to the class.</p>
+
+<p>Be sure the font is large enough to be seen on the overhead!</p>
+
+<h1 id="introduction">Introduction</h1>
+
+<p>Methodology taken mostly from people and companies like: Kelly Goto, Jeffery Veen, Adaptive Path, March First, Sapient. However it is more just my experience through the years combined with common methodology ideas.</p>
+
+<p>A lot of the notes here are taken from a session with Kelly Goto on Web Development Methodology that I attended at An Event Apart.</p>
+
+<p>Also some information <a href="http://awebsitedesigned.co/A-Website-Designed-Infographic.pdf">borrowed from this infographic</a></p>
+
+<p>In fact, this is a standard Project Management Methodology adapted to Web Development.</p>
+
+<p>Generally, there are 5 accepted stages in Web Development Methodology. They are:</p>
+
+<ul>
+  <li><strong>Phase 1</strong> Definition</li>
+  <li><strong>Phase 2</strong> Site Development</li>
+  <li><strong>Phase 3</strong> Design</li>
+  <li><strong>Phase 4</strong> Production &amp; Testing</li>
+  <li><strong>Phase 5</strong> Launch</li>
+</ul>
+
+<p>Sometimes, an additional 2 phases that are added include:</p>
+
+<ul>
+  <li><strong>Phase 0</strong> Client/Project Selection</li>
+  <li><strong>Phase 6</strong> Epilogue and Maintenance</li>
+</ul>
+
+<p>While these are stages not commonly accepted, but can be the difference between a successful project and a potential disaster.</p>
+
+<h3 id="phase-0---clientproject-selection">Phase 0 - Client/Project Selection</h3>
+
+<p>If you want to start a project, it is important to know who your client is, who your team members will be, and what your chance of success is.</p>
+
+<h4 id="is-every-job-worth-taking--why-or-why-not">Is every job worth taking? : Why or why not?</h4>
+
+<ul>
+  <li>Bad clients can suck time (and money!) out of you.</li>
+  <li>Make you work harder for the project</li>
+  <li>Frequent changes, ‘misunderstandings&#39; or ‘miscommunication&#39; excuses which can lead to going back a step or two (or ten!)</li>
+  <li>Good clients work like team members. They have responsibilities and they hold up their end of the ‘bargain&#39;.</li>
+  <li>A lot of projects = Not much time to work on <em>any</em> project</li>
+  <li>Working as a team member (consultant) on a job? Make sure you know the project leader, or get a CLEAR set of requirements for your services.</li>
+  <li>Bad client can look bad on you.</li>
+  <li>Sometimes, you don&#39;t have an option! (Your client is your boss/employer)</li>
+  <li>In this case, you need to be clear about what you can/cannot achieve early on, and be prepared to stick to your plan.</li>
+  <li>Make sure you document as MUCH AS POSSIBLE!</li>
+</ul>
+
+<h4 id="bad-client-early-warning-signs">Bad Client Early Warning Signs</h4>
+
+<ul>
+  <li>Unrealistic schedules or desires. Wants the site up right away, or in short order</li>
+  <li>Wants to get ‘something to look at&#39; before any planning, user testing/profiling, content aggregation or design is done</li>
+  <li>Pretends to know how it is done, difficult to educate</li>
+  <li>Compares your efforts to “my neighbor&#39;s kid” when it comes to budget time</li>
+  <li>No idea what the content should be - They are the <em>owner</em> of it!</li>
+  <li>Will not sign off, or give final approval for the project. Want to ‘just get underway, worry about the details later&#39;</li>
+  <li>Indecisive, makes frequent changes.</li>
+  <li>Finds initial discovery/client research to be troublesome or a waste of time.</li>
+  <li>Slow decision maker, unresponsive to email requests</li>
+  <li>Wants to take control of the creative, driving the site design, possibly throwing wrenches into the development. Many repercussions here!</li>
+  <li>Doesn&#39;t get involved in the project at all. Want you to just come back with it all finished.</li>
+</ul>
+
+<h4 id="good-clients-early-warning">Good Clients Early Warning:</h4>
+
+<ul>
+  <li>Very responsive to requests for information</li>
+  <li>Sets realistic goals with realistic schedules</li>
+  <li>Pulls their own weight during the project. Delivers on their tasks on time</li>
+  <li>In agreement about schedules, deliverables and budget</li>
+  <li>Decisive, decision-maker and signs off</li>
+  <li>Is clear when building the scope, goals and application requirements</li>
+  <li>If you see any of the Early Warnings, think to yourself: How much do I need this job?</li>
+</ul>
+
+<blockquote>
+  <p>Sometimes it is better to find yourself a better account rather than suffer through a bad one.</p>
+</blockquote>
+
+<p>If your employer is your client, get into the habit of documenting everything you do, and everything that the project is expected to accomplish.</p>
+
+<h4 id="extremely-important">Extremely Important!!!</h4>
+
+<ul>
+  <li>Establish the criteria for success</li>
+  <li>Before the project starts, make sure you both know what constitutes a successful project</li>
+  <li>Ensure that the client knows what Sign-Off means</li>
+  <li>Use definitive language to describe the project success criteria:</li>
+</ul>
+
+<h5 id="good-language">Good Language</h5>
+
+<ul>
+  <li>Develop a Site Map to use as a basis for developing completed web site</li>
+  <li>Design 3 user-interface templates, of which 1 will be approved for final use</li>
+  <li>Rewrite content in the Introduction and Contact sections, to be signed off by the client.</li>
+</ul>
+
+<h5 id="bad-language">Bad Language</h5>
+
+<ul>
+  <li>Redesign the site</li>
+  <li>Develop a web application</li>
+  <li>Update the look of the site</li>
+  <li>Otherwise, the project might not ever end.</li>
+</ul>
+
+<p>So, with that optional step out of the way, there are some things to keep in mind before embarking on a project with a new client.</p>
+
+<h3 id="before-beginning">Before Beginning</h3>
+
+<p>Questions for you and your client</p>
+
+<ul>
+  <li>Why are you putting this site up? If redesigning the site, then why? Just to ‘update the look&#39;?</li>
+  <li>What are your customers telling you or your client? What kind of things do they want to see? No just on the web, but out of the company in general. Sometimes, these are the key issues facing a companies success.</li>
+  <li>What is the competition doing? Are they winning over customers because of something they are doing that you aren&#39;t? Or doing it better?</li>
+  <li>In the case of a redesign, make sure you include customers when you can. All of a sudden changing the site can cause problems.</li>
+  <li>Important: Design for CUSTOMERS, not executives. Too many times, sites get designed because of what the owner wants, and not what the customers need.</li>
+  <li>Show ‘best practices&#39; of other sites</li>
+  <li>Explain that the site needs to be usable</li>
+  <li>Support your assertions with user testing</li>
+  <li>Have a plan of attack</li>
+</ul>
+
+<h4 id="red-alerts">Red Alerts</h4>
+
+<ul>
+  <li><strong>Content!</strong> This is almost always the biggest roadblock in getting a project completed. Clients promise content, but don&#39;t deliver on time.</li>
+  <li>Sometimes, the content they <em>promise</em> is nothing like the content they <em>deliver</em>.</li>
+  <li><strong>Worst of all:</strong> People think that Print Content = Web Content</li>
+</ul>
+
+<h4 id="strategies">Strategies</h4>
+
+<ul>
+  <li>Engage them early on: What will be on the site? Exactly.</li>
+  <li>If the site will have a lot of content, <em>especially</em> if there is no content already: suggest a writer for the content.</li>
+  <li>Review content for ‘readability&#39;. Should a writer be suggested if the content is too technical, or brochure ware?</li>
+  <li>Show them that Print Content and Web Content are different!</li>
+  <li><a href="http://www.nngroup.com/topic/writing-web/">Writing for the web</a> is very different thing. We even <a href="http://www.bcit.ca/study/courses/comm1110">teach it here at BCIT</a>.</li>
+</ul>
+
+<h3 id="sign-off">Sign-Off</h3>
+
+<p>Don&#39;t get caught late in the project with “But I thought you were going
+to do this” or “I don&#39;t like the way this looks/works/feels”.</p>
+
+<h4 id="strategies-1">Strategies</h4>
+
+<ul>
+  <li>Identify a SINGLE PERSON who is responsible for signing off on all deliverables.</li>
+  <li>If a Committee wants to be part of the process, that&#39;s okay, so long as they nominate ONE PERSON to be the chairperson with signing authority.</li>
+  <li>Make sure that you get your client to sign off:
+    <ul>
+      <li>On the requirements</li>
+      <li>On the project plan</li>
+      <li>On the budget</li>
+      <li>On the scope</li>
+      <li>On each phase</li>
+    </ul>
+  </li>
+  <li>This will protect you in the end, as you can go back to your last sign-off and explain that you had completed that step based on the requirements.</li>
+</ul>
+
+<h3 id="scope-creep">Scope Creep</h3>
+
+<p>This is a slimy monster that can crawl all over your project plan and carve off all of your profit.</p>
+
+<h4 id="strategies-2">Strategies</h4>
+
+<ul>
+  <li><strong>Solid Requirements</strong> This might seem like a picky process, but you need to make sure that you understand the depth to everything the customer is asking for. Ask lots of questions.</li>
+  <li><strong>Sign off</strong> This is a powerful tool for not letting scope creep get too far</li>
+  <li><strong>Change Document</strong> If your client wishes a change, give them the opportunity to change, but make sure they know that this is <em>ADDITIONAL WORK</em> and that they will be charged for it.</li>
+  <li><strong>Application Development details</strong> Applications can be one of the most difficult to work with, because they can have many functional branches and changes can take a long time. Engage an engineer early on to develop a SOLID specification.</li>
+  <li><strong>Talk about it</strong> If you mention it to your client at the beginning, you have identified a potential risk early on in the project. Be prepared to mitigate potential scope creep later on my identifying it at the beginning.</li>
+  <li><strong>Miscommunication</strong> I have seen this happen on almost every project I have been involved in. Good clients or bad, you will get into a project and have the client say: “That isn&#39;t right”.</li>
+</ul>
+
+<h3 id="keep-the-project-on-track">Keep the project on track</h3>
+
+<ul>
+  <li>Frequent follow-up with more than just a phone call.</li>
+  <li>Walk-through ideas, wireframes, layout, graphics, content and application details with sign-off person.</li>
+  <li>Make sure you talk to the decision maker (otherwise, whomever you talk to will get it wrong when telling them - guaranteed!!)</li>
+  <li>Clear Schedule and Scope documents</li>
+  <li>Missed Deliverables! Because the client is a team member, they will undoubtedly have tasks to complete during the project.</li>
+  <li>Occasionally, or often, they may miss these deadlines, which can impinge on the project, or stop it altogether!</li>
+</ul>
+
+<h4 id="strategies-3">Strategies</h4>
+
+<ul>
+  <li>Get them to agree to a schedule BEFORE the project starts!</li>
+  <li>Build in some Flex-Time: set a deliverable date of October 1st, but you don&#39;t <em>need</em> the content until October 5th.</li>
+  <li>Pleasant reminders: When creating the schedule, go back to your office and build a schedule of reminders that fall 1 - 3 days before the deliverable. Send out a ‘Standard Project Update&#39; with details of what has been done, what is happening now, and what is required in short order.</li>
+  <li>Overdue reminders: These are less friendly, and more direct. A task is overdue, please attend to this.</li>
+  <li>Very overdue: Phone the client and let them know that you have a dependency on the task. If they cannot get it done, let them know that the schedule will need to be altered to reflect the lost time.</li>
+</ul>
+
+<h2 id="phase-1-definition">Phase 1: Definition</h2>
+
+<h3 id="gathering-information">Gathering Information</h3>
+
+<ul>
+  <li>Work with your client to gather as much information as you can about their company/product/promotion</li>
+  <li>Get all materials that they have</li>
+  <li>Ask questions, get people engaged in discussing the latent info</li>
+  <li>You might find that people differ on what the product/promotion actually is!</li>
+  <li>If a site already exists, look at current site and learn as much as you can about what is there now</li>
+  <li>Become an expert in your clients business!</li>
+</ul>
+
+<h3 id="client-questionnaire">Client Questionnaire</h3>
+
+<ul>
+  <li>An <a href="http://thenet.ca/assets/questionnaire.doc">example questionnaire</a></li>
+  <li>Get the client to fill out the questionnaire as much as they can.</li>
+  <li>Do NOT do it with them! They might want your help, but RESIST!</li>
+  <li>Give them a few days and come back to see how far it has gotten</li>
+  <li>Most of the time, they only finish the ‘stuff they know&#39;</li>
+  <li>This serves to illustrate that YOU are the expert</li>
+  <li>Help them fill out the rest</li>
+  <li>Clarify the answers they gave you</li>
+</ul>
+
+<h3 id="understanding-your-audience">Understanding Your Audience</h3>
+
+<ul>
+  <li>Who is your client targeting?</li>
+  <li>What ages are they? Gender? Ethnic group? Financial Status? Technical Savvy?</li>
+  <li>More than one target group? Identify all of them</li>
+  <li>Personas (also called User Profiles) (more on that later)</li>
+  <li>If site exists, look at what they are doing now</li>
+</ul>
+
+<h3 id="setting-goals">Setting Goals</h3>
+
+<ul>
+  <li>Setting goals for the project sets up your initial Success Criteria</li>
+  <li>Number one question is: Why build a website? / Why redesign a website?</li>
+</ul>
+
+<h4 id="goals-can-be">Goals can be:</h4>
+
+<p>*Support current business with online presence
+  *Creating online resources for clients
+  *Opening online sales
+  *Increase traffic
+  *Improving purchasing conversion
+  *Improving usability</p>
+
+<ul>
+  <li>Engage the customer in these discussions. Make sure they have an understanding of what YOU see as the goals, and that you understand what THEY see as the goals.</li>
+  <li>Work to join those together!</li>
+</ul>
+
+<h3 id="creative-brief">Creative Brief</h3>
+
+<ul>
+  <li>A creative brief is simply a restating of the goals of the project, and a proposal for what you believe will be required to complete the project.</li>
+  <li>No Budget</li>
+  <li>Refined Project Goals</li>
+  <li>Audience identified</li>
+  <li>Visual and conceptual goals stated, but not displayed</li>
+  <li>GET IT SIGNED!</li>
+  <li>Once the client has had a chance to review the Brief, they may want to make some changes</li>
+  <li>Keep the brief as it is, and add an attachment that is the ADDENDUM to the Creative Brief.</li>
+  <li>Once everyone is happy with the corrected brief, then GET IT SIGNED!</li>
+</ul>
+
+<h4 id="project-team">Project Team</h4>
+
+<ul>
+  <li>Who is the team?</li>
+  <li>Are you assembling the team? Are you part of a larger team? Are you flying solo?</li>
+  <li>Who does the client have on their team? What resources are they offering?</li>
+  <li>Establish who is doing what, and a list of tasks/roles so that when unexpected events come up, there is no finger pointing.</li>
+  <li>Will there be technical requirements?</li>
+  <li>Remember, the client is ALWAYS a team member!</li>
+</ul>
+
+<h4 id="schedule">Schedule</h4>
+
+<ul>
+  <li>Now that you know WHO is going to do WHAT, you need to determine WHEN are they going to do it.</li>
+  <li>Are there critical launch factors?</li>
+  <li>Are there critical milestone dates?</li>
+  <li>Will decision makers be available? Vacation? Retiring?</li>
+  <li>What are the availability levels of your team members?</li>
+  <li>What is their workload?</li>
+  <li>What are the dependencies of the project?</li>
+  <li>Construct a list of tasks that will likely have to be done in order to complete this site. It can be rough at first.</li>
+  <li>Next, mark each task with a likely person who will be responsible.</li>
+  <li>Now try and put all the tasks in chronological order, making sure that the same person cannot be working on the two tasks simultaneously.</li>
+  <li>This is expert project management - Not covered in this course, but it can be a huge challenge!!</li>
+</ul>
+
+<h4 id="budget">Budget</h4>
+
+<ul>
+  <li>This is universally the most contentious part of a project.</li>
+  <li>Make sure that you have defined who the project members are, their role, and their cost (by task or by hour).</li>
+  <li>Now, with your total hours, and roles defined, just sum the total amount and use that as a guideline.</li>
+  <li>Remember to add extra charges!! Stock Photo, Domain Registration, Hosting Fees (if applicable) software (if needed), etc.</li>
+  <li>Include a breakdown of tasks, who is responsible, how many hours it will take and the total for each phase.</li>
+</ul>
+
+<h4 id="project-plan">Project Plan</h4>
+
+<p>You might spend a lot of time working on this, particularly if you are assembling a team or if the project is very large or lengthy</p>
+
+<h5 id="components-of-a-project-plan">Components of a Project Plan:</h5>
+<ul>
+  <li><strong>Overview</strong> The executive summary. What will be accomplished in broad strokes.</li>
+  <li><strong>Schedule</strong> This might be somewhat rough to begin with, but this will come out of conversations with the client and with the team.</li>
+  <li>Schedule may also have some critical dates (like promotional campaign start, etc) that need to be expressly identified.</li>
+  <li>Talk to your client! Make sure that the dates are achieveable by YOU AND BY THEM!</li>
+  <li><strong>Budget</strong> Another area that may change during the review of the project. Be prepared to defend the budget</li>
+  <li><strong>Audience</strong> Placing this in the project plan is crucial, as this will become the main reference document throughout the project. Make sure that you include Personas (examples available)</li>
+  <li><strong>Testing Plan</strong> Clearly identify what/how testing will occur, both on users and the site itself</li>
+  <li><strong>Details and Assumptions</strong> Often overlooked, it is important to include as a clarifier. This is where all of the assumptions by the developer are outlined.</li>
+  <li>Examples:
+    <ul>
+      <li>The development of (site A) is limited to HTML coding of X sections and Y pages (if known)</li>
+      <li>The budget is only an estimate based on information given as of (date). Variance may occur with changes in the project plan. See Change Request Form in appendix B</li>
+      <li>Overdue task delivery may be subject to extra charges outlined in appendix A</li>
+      <li>Stock and Photo/Illustration illustration fees are the responsibility of the client. Approval for each item will be requested from the client before purchase.</li>
+    </ul>
+  </li>
+  <li><strong>SIGNATURE LINE</strong>: This is MOST important! Make sure they sign this.</li>
+</ul>
+
+<h3 id="kick-it-off">Kick it off!</h3>
+
+<ul>
+  <li>Once you have the project plan signed off, have a kick-off meeting</li>
+  <li>Include <em>everyone</em> who will be part of the project</li>
+  <li>Get them all together and let them know that the project has been approved, and is underway</li>
+  <li>Ensure everyone knows they are working on a COMMON GOAL</li>
+  <li>Give them a HORIZON: Launch Date, Milestones and/or Success Criteria</li>
+</ul>
+
+<h2 id="phase-2-site-development">Phase 2: Site Development</h2>
+
+<h3 id="review-existing-content">Review Existing Content</h3>
+
+<ul>
+  <li>What did you gather from the client?</li>
+  <li>Remember Content is KING</li>
+  <li>It isn&#39;t all just text:
+    <ul>
+      <li>Words, Images, Multimedia, diagrams, etc.</li>
+    </ul>
+  </li>
+  <li>Is it web usable? Did you need to hire a writer?</li>
+  <li>Get a sense of how the information is grouped together, and possibly do a pile-sorting exercise to se if it really is the most optimal way.</li>
+  <li>If content is being provided by the client, create a schedule for content delivery, once you have outlined what needs to go on the site.</li>
+  <li>Create an outline of content, so that client is forced to categorize what is there currently. Help them with this.</li>
+  <li>Make sure the client <strong>knows when content is due!</strong></li>
+</ul>
+
+<h3 id="sitemapping">Sitemapping</h3>
+
+<ul>
+  <li>Once you have the Content Outline, a navigation structure will usually emerge.</li>
+  <li>Main categories start to arise as natural navigation points.</li>
+  <li>This is a simple outline document that acts as a suggestion for further development. This is NOT the navigation</li>
+  <li>With this in mind, does the initial navigation look correct? Is it simple to understand? Does it need a rework? Should the categories be re-assigned.</li>
+</ul>
+
+<h3 id="page-view">Page View</h3>
+
+<ul>
+  <li>Once you have begun refining the content into an outline that can be used as a navigational aid, you can begin to look at Page level development.</li>
+  <li>This generally comes from the information that is one or more levels deeper in the Content Categorization</li>
+</ul>
+
+<h3 id="wireframing">Wireframing</h3>
+
+<ul>
+  <li>One of the tools used for looking at a page is called Wireframing</li>
+  <li>This allows you to outline what KIND of information will go on a page.</li>
+  <li>Where navigation will fall, but not necessarily what the navigation will be.</li>
+  <li>From multiple wireframes (one for each TYPE of page) you can start to derive FLOW</li>
+  <li><strong>TIP:</strong> Don&#39;t let clients see this early on. Inevitably, they will think this is a ‘design&#39; and get scared that the site is going to look like a bunch of dark lines on a white background!!</li>
+</ul>
+
+<h3 id="labeling-the-site">Labeling the site</h3>
+
+<ul>
+  <li>Labels are one of the key tenets of Information Architecture.</li>
+  <li>Making sure that the site is labeled correctly is key to usability, searching and design</li>
+  <li>Labels must be informative and give the user subtle instructions with few words</li>
+  <li>Remember your audience! Labels can be sensitive to age, gender, ethnic background and more. Pull out your Personas to help you build these.</li>
+  <li>TONE is also something that can be developed here. The site will have it&#39;s own VOICE that communicates with the user. How the words flow together, how expressive or passive the site is. VERY IMPORTANT for some sites.</li>
+  <li><strong>Example</strong>
+    <ul>
+      <li>Opera Site vs Professional Football site</li>
+      <li>Skateboard retailer vs Alcohol Rehab Clinic</li>
+      <li>Post Secondary School Recruiting vs Course Homepage</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="defining-user-paths">Defining User Paths</h3>
+
+<ul>
+  <li>This is also sometimes overlooked!</li>
+  <li>What is the site supposed to do?</li>
+  <li>Will the user be required to follow a specific path?</li>
+  <li>Has it been determined? Can they move from the site to the path and back with ease?</li>
+  <li><strong>Examples</strong>
+    <ul>
+      <li>Bookstore Checkout Process</li>
+      <li>Signing up for an account</li>
+      <li>Selecting options for a travel package</li>
+    </ul>
+  </li>
+  <li>Another use for those Personas!</li>
+  <li>You can also extract User Scenarios from the profiles and use them as an additional document if you are building applications.</li>
+  <li>Very useful for Interaction Designers.</li>
+</ul>
+
+<h2 id="phase-3-design">Phase 3: Design</h2>
+
+<h3 id="starting-the-creative-process">Starting the Creative Process</h3>
+
+<ul>
+  <li>For most people, this is the <em>fun</em> phase</li>
+  <li>However, this is also the phase that has the most potential for client re-evaluation.</li>
+  <li>Work to keep them on track! All your documentation will come in handy here.</li>
+  <li>This is where Designers are engaged in the project.</li>
+  <li>First thing to do: Review the site goals with the client</li>
+  <li>Use it as a re-confirmation that you are on the right track</li>
+</ul>
+
+<h3 id="presenting-designs-to-the-client">Presenting designs to the client</h3>
+
+<h4 id="first-visit">First Visit</h4>
+
+<ul>
+  <li>This can be tricky. Be aware that you can get caught up in some subjective commentary</li>
+  <li>Before you present anything to the client, set expectations</li>
+  <li>Let them know that:
+    <ul>
+      <li>the designs are preliminary</li>
+      <li>things can be changed</li>
+      <li>These are just ideas</li>
+      <li>Colours and fonts are not set in stone (unless there is a corporate requirement)</li>
+    </ul>
+  </li>
+  <li>Showing example templates must be done <strong>in their presence</strong></li>
+  <li>Let them know that this is just a basis for discussion, and a new design can be presented after this one is reviewed</li>
+  <li>Limit minutiae suggestions that bog down the presentations</li>
+  <li>Try to keep it high level:
+    <ul>
+      <li>Does it answer the site goals (to look professional/lively/exciting), etc?</li>
+      <li>Does the navigation make sense?</li>
+      <li>What do you think you would see here (or there)</li>
+    </ul>
+  </li>
+  <li>Take copious notes (consider bringing a note taker with you)</li>
+  <li><strong>Do not</strong> try to correct the user on design issues alone. Just let them have their say and go back to your studio with notes</li>
+</ul>
+
+<h4 id="return-visit">Return Visit</h4>
+
+<ul>
+  <li>Make sure you answer the specific questions you had in the previous meeting</li>
+  <li>Make sure you point out specific changes that were made based on specific suggestions. This is <strong>extremely important</strong>!</li>
+  <li>This reminds users why things have changed (ie: it was their suggestion)</li>
+  <li>If things were changed against the users wishes (because they asked for something ridiculous or out of scope), make sure you have a reason <strong>prepared beforehand</strong>!</li>
+  <li>Take more notes, let user make changes on paper</li>
+</ul>
+
+<h4 id="final-visit">Final Visit</h4>
+
+<ul>
+  <li>Other than little ‘tweaks&#39;, make sure you get <strong>written approval</strong></li>
+  <li>Bring colour printouts that the client can sign</li>
+  <li>Allow them to circle areas they want changed and make sure they initial the change.</li>
+</ul>
+
+<h4 id="creating-a-protosite">Creating a protosite</h4>
+
+<ul>
+  <li>Many different designers do this many different ways</li>
+  <li>Here is what I like to do:</li>
+  <li>With a visual designer, create the main templates for the site (however many there are)</li>
+  <li>Make sure you have a coder on-hand that can guide the process and say whether all design elements are possible!</li>
+  <li>Home Page / Content Page / Application Page / Search and Results Pages / etc</li>
+  <li>Create a near-final version with navigation, images, media and everything except copy.</li>
+  <li><strong>Do not add copy yet.</strong> If you are doing this in, say, photoshop, editing content isn&#39;t easy and can be arduous.</li>
+  <li>Just use Lorem ipsum dolor text. Users might object, but explain that this removes them from trying to READ everything. Allows them to focus on the SITE.</li>
+  <li>Create image maps for navigation. Allow users to click-through to test out flow, user paths, different looks, search results and more.</li>
+  <li>Send link to user to have them test it.</li>
+  <li>Go to see client after they have had a chance to “test” it.</li>
+  <li>Gather feedback, take them through a “professional” walkthrough</li>
+</ul>
+
+<h3 id="create-final-templates">Create final templates</h3>
+
+<ul>
+  <li>Using the feedback gathered from the client, you can now engage your designer to create the final templates for the site.</li>
+  <li>Make sure that you have consulted your coders to make sure that the templates are
+“doable” early on!</li>
+  <li>These templates need to be finalized and locked down. They should be changed VERY
+LITTLE after this point, as they will be used as reference materials for post-launch maintenance.</li>
+</ul>
+
+<h4 id="style-guide-and-standards">Style Guide and Standards</h4>
+
+<p>Create a style guide for your team, the client team and the Maintenance team. This is crucial for designers, developers, clients and project people.</p>
+
+<p>Style guide can include:
+* Filename and/or directory standards (are things page or directory based)
+* Image standards (jpg, png, gif… transparencies… compression… max size)
+* Colours (HEX, RGB, etc)
+* Any other things required by the client
+* Establishing Standards for HTML, CSS, coding style, notations, meta information, etc.</p>
+
+<h3 id="phase-4-production-and-testing">Phase 4: Production and Testing</h3>
+
+<p>This is the <strong>get it done</strong> phase.</p>
+
+<ul>
+  <li>Take everything you have planned and put it all together.</li>
+  <li>This is where the coders, application developers, designers and client all work together.</li>
+  <li>Preproduction Review</li>
+  <li>Review Goals <strong>again</strong></li>
+  <li>Review Scope (Details and Assumptions)
+    <ul>
+      <li>Are you on track?</li>
+      <li>Has there been Scope Creep?</li>
+    </ul>
+  </li>
+  <li>Before heavy coding begins, make sure that coders understand the audience, capabilities and technical restraints</li>
+</ul>
+
+<h4 id="tracking-progress">Tracking Progress</h4>
+
+<ul>
+  <li>Do you have a system for tracking the progress of the project?
+    <ul>
+      <li>Email</li>
+      <li>Spreadsheet</li>
+      <li>Project software</li>
+      <li>Basecamp</li>
+    </ul>
+  </li>
+  <li>Break down all the tasks into individual line items (use the schedule or Task List as a guide)</li>
+  <li>Make sure every task is assigned with a person and due date.</li>
+  <li>Request updates from all team members on a regular basis</li>
+  <li>Depends on length of job. 1 week? bi-weekly?</li>
+  <li>Don&#39;t go too long without an update</li>
+  <li>If items are slipping, find out why and re-allocate resources based on requirements to complete a task</li>
+  <li>If working by the hour, be VERY CONSCIOUS of ‘just one little thing&#39; requests from client.</li>
+  <li>Build in a contingency for small changes, but remind client that larger changes will have to use the Change Request Document.</li>
+  <li>If there is a problem, go back to all of the documetation that has client sign-off. Make sure they KNOW that they signed off on X and now they want either X+1 or Y.</li>
+</ul>
+
+<h4 id="production">Production</h4>
+
+<ul>
+  <li>Set the file structure for the final site</li>
+  <li>This should be based on the wireframes and architecture that was developed in Phase 2</li>
+  <li>Make sure this is a Scaleable design</li>
+  <li>Make sure that if the site grows (more products/sections, etc) the site can grow with it</li>
+  <li>Coding pages based on the templates established in Phase 3</li>
+  <li>Constant review - Make sure that everything is progressing normally and that there are no ‘surprises&#39; during production</li>
+  <li>Nothing worse than a coder who mis-interprets a design cog into something that throws the site out of whack</li>
+  <li>Review progress during task updates</li>
+  <li>Backend integration</li>
+  <li>If actual visual integration can&#39;t come at this point, view the information flow</li>
+  <li>If information flow is limited, then allow the application developers to create a mini-site that lets you see how things are progressing</li>
+  <li>Lend coding resources to this mini-project</li>
+  <li>EXPLAIN THIS TO CLIENT and BUILD IT INTO PROJECT!</li>
+</ul>
+
+<h4 id="testing">Testing</h4>
+
+<ul>
+  <li>Perhaps the MOST overlooked part of the project</li>
+  <li>This need to be organized and planned right from the beginning</li>
+  <li>Some clients will object, saying that ‘You shouldn&#39;t have to test it - it should work fine the first time&#39;.</li>
+  <li>This is another red flag. Educate client</li>
+  <li>Start from the very beginning and review the goals, the content outline, applications specification… everything.</li>
+  <li>If there are user paths, these are an EXCELLENT place to start.</li>
+  <li>The basics of Quality Assurance (QA) Testing</li>
+</ul>
+
+<h4 id="create-a-qa-plan">Create a QA Plan</h4>
+
+<ul>
+  <li>From your Phase 1 documentation, determine what the most important areas of the site are meant to be. Use those requirements in order to build scenarios that are likely for users coming to the site.</li>
+  <li>Another important tool is using the Personas you built earlier. Use these to determine what people are likely to want from the site.</li>
+  <li>Review any user surveys, usability reports or focus group reports to determine what areas to test.</li>
+  <li>Start with the meta-level items such as site-wide navigation, headers and footers, and focus on more granular items as you continue.</li>
+</ul>
+
+<h4 id="levels-of-qa-testing">Levels of QA Testing</h4>
+
+<ul>
+  <li>Your client may only be interested in the most basic levels of QA testing. Be sure that they understand what the consequences of skipping/skimping on testing are!</li>
+  <li>Having stated that, there are levels of testing you can do to satisfy your client (and yourself!):
+    <ul>
+      <li><strong>Light/Informal QA:</strong> This can be done as a checklist of features, tools and pages within the site. Using the Content Inventory to check off that each page is present, and any requirements documents to check the presence and function of tools and features.</li>
+      <li><strong>Semiformal QA:</strong> This is a more organized approach that includes a checklist of items at the very least. Start by breaking down the testing into distinct groups: Content, Features and Applications. Each group is tested individually from a users point-of-view by following paths or tasks. A number of scenarios are defined based on the requirements for the system and followed. Errors and ommissions should be noted and submitted for correction. Note: This is what most project managers will use.</li>
+      <li><strong>Formal QA:</strong> This takes the previous level and adds a lot of documentation and, potentially, software to the process. Each task and subtask are mapped out, and each path of tasks/subtasks/subsubtasks are tested. Each test is accompanied by a notation of expected behaviour and experienced behaviour. Bugs are submitted and tracked with a process, likely using software like BugTrack.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="prioritizing-and-fixing-bugs">Prioritizing and fixing bugs</h4>
+
+<ul>
+  <li>For most projects, the bugs will arise during early in the development phase, but some squeak through into the later stages and can slow a project way down.</li>
+  <li>In some cases it might be better to delay the launch of a site in order to fix a critical bug than it is to go live with a “Show Stopper”.</li>
+  <li>If the launch date is solid and cannot be changed, consider moving resources to the problem area in order to reach resolution faster.</li>
+</ul>
+
+<blockquote>
+  <p>Fix the visual issues as early as possible. These are the ones the client will “see”.</p>
+</blockquote>
+
+<h4 id="deficiency-list">Deficiency List</h4>
+
+<p>It is important to document major deficiencies so that you have a record of them existing. Mark them with the following:</p>
+
+<ul>
+  <li>Time &amp; Date</li>
+  <li>Description of the error or omission</li>
+  <li>What you did to achieve the issue (if applicable)</li>
+  <li>Severity Level (try to keep this simple: 3 levels is fine)</li>
+  <li>Status (Unconfirmed, Open, In Progress, Fixed)</li>
+</ul>
+
+<h4 id="conducting-a-final-check">Conducting a final check</h4>
+
+<ul>
+  <li>Once the site has been checked through QA, make sure that you run through a final check on a staging server. All conditions and scripts should be “real-world” instead of development/test data. This can be done easily by getting everyone from the client and development sides to hammer the site for a day or two, just trying out the site.</li>
+  <li>This has an added benefit of giving the client a way to experience the site as a user would, preparing them for any questions that might arise when the site launches.</li>
+</ul>
+
+<h2 id="phase-5-launch">Phase 5: Launch</h2>
+
+<p>Handing off the site to the client. This section is generally straightforward. The site has been tested and should be ready for prime time.</p>
+
+<p>Tasks to be completed at this stage:</p>
+
+<ul>
+  <li>Completing the Production Style Guide</li>
+  <li>Creating the Handoff Packet</li>
+  <li>Tracking Documentation</li>
+  <li>Conducting a Postmortem meeting</li>
+  <li>Scheduling Maintenance Training</li>
+</ul>
+
+<h3 id="phase-6-epilogue---maintaining-the-site">Phase 6: Epilogue - Maintaining the Site</h3>
+
+<ul>
+  <li>Assessing Maintenance</li>
+  <li>Team capability</li>
+  <li>Internal vs External</li>
+  <li>Maintenance Teams</li>
+  <li>Developing a Maintenance Plan</li>
+  <li>Measuring Success</li>
+  <li>Confirming Site Security</li>
+</ul>
+
+<h2 id="keys-to-success">Keys to Success</h2>
+
+<ul>
+  <li>Spend lots of time discovering, defining, planning, clarifying.</li>
+  <li>It will help when it comes to Production.</li>
+  <li>One Decision Maker</li>
+  <li>Make sure you get ONE decision maker if at all possible. If you have a team or committee, get them to nominate a single contact person</li>
+  <li>Get it in writing!</li>
+  <li>Make sure you have your primary decision maker physically signs off on each deliverable when they are satisfied.</li>
+  <li>Track Your Progress</li>
+  <li>Use a calendar, project management software, task list, whatever… but track your progress!</li>
+</ul>
+
+<h3 id="content-is-king">Content is King!</h3>
+
+<blockquote>
+  <p>Fancy layouts and cutting edge design matter for only the smallest percentage of sites. The rest require compelling content. Don&#39;t let your client drive you to the bleeding edge.</p>
+</blockquote>
+
+
+		<p>
+			<a href="/orion/meta/">meta page</a>
+		</p>
+	</div>
+	<!--#include virtual="/orion/footer.html" -->
+</body>
+</html>

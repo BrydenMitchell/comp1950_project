@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home page of BCIT COMP 1950</title>
+	<!--#include virtual="/orion/headTags.html" -->
+</head>
+<body>
+	<!--#include file="header.html"-->
+	<div class="bodyContent">
+		<h1>Home page content</h1>
+		<p>
+			<a href="/orion/meta/">meta page</a>
+		</p>
+	</div>
+	<!--#include file="footer.html"-->
+</body>
+</html>
