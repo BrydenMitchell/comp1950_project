@@ -3,6 +3,11 @@
 <head>
 	<title>Home page of BCIT COMP 1950</title>
 	<!--#include virtual="/orion/headTags.html" -->
+	<style>
+		.tasks, .task li {
+			margin: 0px;
+		}
+	</style>
 </head>
 <body>
 	<!--#include virtual="/orion/header.html" -->
@@ -11,32 +16,26 @@
 			<div class="twelve columns">
 				<div class="bodyContent">
 					<h1>Project Meta Page</h1>
-						Team contribution: </br>
-						<p>
-							<ul>
-							Bryden Mitchell:
-								<li>Rational Page</li>
-								<li>Lecture Pages</li>
-								<li>Outline</li>
-								<li>main css</li>
-							</ul>
-						</p>
-						<p>
-							<ul>
-							Douglas MacGregor:
-								<li>Navigation</li>
-								<li>Tumblr news page</li>
-							</ul>
-						</p>
-						<p>
-							<ul>
-							Mark Su:
-								<li>Wireframe</li>
-								<li>Sitemap</li>
-								<li>File structure setup</li>
-								<li>Header+Footer SSI setup</li>
-							</ul>
-						</p>
+						Team contribution: <br />
+						Bryden Mitchell:
+						<ul class="tasks">
+							<li>Rational Page</li>
+							<li>Lecture Pages</li>
+							<li>Outline</li>
+							<li>main css</li>
+						</ul>
+						Douglas MacGregor:
+						<ul class="tasks">
+							<li>Navigation</li>
+							<li>Tumblr news page</li>
+						</ul>
+						Mark Su:
+						<ul class="tasks">
+							<li>Wireframe</li>
+							<li>Sitemap</li>
+							<li>File structure setup</li>
+							<li>Header+Footer SSI setup</li>
+						</ul>
 						<h2>Links for the each requirements:</h2>
 				        <ul>
 				            <li><a href="/orion/index.shtml">proto-site page home</a></li>
