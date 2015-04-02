@@ -6,39 +6,45 @@
 </head>
 <body>
 	<!--#include virtual="/orion/header.html" -->
-	<div class="bodyContent">
-		<h1>Project Meta Page</h1>
-		<p>
-			Team contribution: </br>
-			Bryden Mitchell:</br>
-			<ul>
-				<li>Rational Page</li>
-				<li>Lecture Page (WIP)</li>
-				<li>Outline (WIP)</li>
-			</ul>
+	<div class="container">
+		<div class="row">
+			<div class="twelve columns">
+				<div class="bodyContent">
+					<h1>Project Meta Page</h1>
+					<p>
+						Team contribution: </br>
+						Bryden Mitchell:</br>
+						<ul>
+							<li>Rational Page</li>
+							<li>Lecture Page (WIP)</li>
+							<li>Outline (WIP)</li>
+						</ul>
 
-			Douglas MacGregor:</br>
-			<ul>
-				<li>Navigation</li>
-			</ul>
+						Douglas MacGregor:</br>
+						<ul>
+							<li>Navigation</li>
+						</ul>
 
 
-			Mark Su:</br>
-			<ul>
-				<li>Wireframe</li>
-			</ul>
+						Mark Su:</br>
+						<ul>
+							<li>Wireframe</li>
+						</ul>
 
-			<h2>Links for the each requirements:
-	        <ul>
-	            <li><a href="/orion/">proto-site page home</a></li>
-	            <li><a href="/orion/lectures/">proto-site page lecture</a></li>
-	            <li><a href="#">proto-site page blog/news</a></li>
-	            <li><a href="/orion/meta/wireframe.html">Wireframes</a></li>
-	            <li><a href="/orion/meta/">Content Area description</a></li>
-	            <li><a href="/orion/sitemap.html">Site Map</a></li>
-	            <li><a href="/orion/meta/rational.shtml">Rationale Page</a></li>
-	        </ul>
-		</p>
+						<h2>Links for the each requirements:</h2>
+				        <ul>
+				            <li><a href="/orion/">proto-site page home</a></li>
+				            <li><a href="/orion/lectures/">proto-site page lecture</a></li>
+				            <li><a href="#">proto-site page blog/news</a></li>
+				            <li><a href="/orion/meta/wireframe.html">Wireframes</a></li>
+				            <li><a href="/orion/meta/">Content Area description</a></li>
+				            <li><a href="/orion/sitemap.html">Site Map</a></li>
+				            <li><a href="/orion/meta/rational.shtml">Rationale Page</a></li>
+				        </ul>
+					</p>
+				</div>
+			</div>
+		</div>
 	</div>
 	<!--#include virtual="/orion/footer.html" -->
 </body>
