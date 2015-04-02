@@ -6,23 +6,27 @@
 </head>
 <body>
 	<!--#include virtual="/orion/header.html" -->
-	<div class="bodyContent">
-		<h1>Project Rational</h1>
-		<p>The entire design is based on making information as easily available as possible. This means making it extremely clear where all the information is located. The theme of making information as easily accessible as possible means creating a minimalist design that responds well on smaller screens.</p>
-		<h2>Navigation:</h2>
-		<ul>
-			<li>The main navigation clearly shows where to find information and is responsive to allow full access to the main navigation on a smaller screen. </li>
-			<li>There is secondary navigation in longer pages (lectures, project etc.) which allows jump navigation down a longer page in order to get to the information faster.</li>
-		</ul>
-		<h2>Site Layout:</h2>
-		<ul>
-			<li>We thought it was important to divide the pages into logical groups. Separating homework from lectures was a key point for our site layout as we believe it allows student at home to find the information they need without searching through a large page.</li>
-		</ul>
-		<h2>No Distractions:</h2>
-		<ul>
-			<li>This is an educational and informative website and we have therefore designed the pages to provide information and only information relative to the user. There is nothing on this webpage that is not strictly related to the course.</li>
-		</ul>
+<div class="container">
+	<div class="row">
+		<div class="bodyContent">
+			<h1>Project Rational</h1>
+			<p>The entire design is based on making information as easily available as possible. This means making it extremely clear where all the information is located. The theme of making information as easily accessible as possible means creating a minimalist design that responds well on smaller screens.</p>
+			<h2>Navigation:</h2>
+			<ul>
+				<li>The main navigation clearly shows where to find information and is responsive to allow full access to the main navigation on a smaller screen. </li>
+				<li>There is secondary navigation in longer pages (lectures, project etc.) which allows jump navigation down a longer page in order to get to the information faster.</li>
+			</ul>
+			<h2>Site Layout:</h2>
+			<ul>
+				<li>We thought it was important to divide the pages into logical groups. Separating homework from lectures was a key point for our site layout as we believe it allows student at home to find the information they need without searching through a large page.</li>
+			</ul>
+			<h2>No Distractions:</h2>
+			<ul>
+				<li>This is an educational and informative website and we have therefore designed the pages to provide information and only information relative to the user. There is nothing on this webpage that is not strictly related to the course.</li>
+			</ul>
+		</div>
 	</div>
-	<!--#include virtual="/orion/footer.html" -->
+</div>
+		<!--#include virtual="/orion/footer.html" -->
 </body>
 </html>

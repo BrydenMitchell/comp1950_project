@@ -174,24 +174,25 @@
 			</div>
 			<div class="four columns">
 				<div class="quicknav">
-					<h2>Qucknav</h2>
+					<h2>Quicknav</h2>
 					<ul>
-						<li><a href="#outline">Outline</a></li>
-						<li><a href="#book">Required Books</a></li>
-						<li><a href="#marking">Marking</a></li>
-						<li><a href="#tailor">Tailor the Course!</a></li>
-						<li><a href="#survey">Survey</a></li>
-						<li><a href="#intro">Introductions</a></li>
-						<li><a href="#yourturn">Your Turn</a></li>
-						<li><a href="#sp">Student Pages</a></li>
-						<li><a href="#coursesite">Course Web Site</a></li>
-						<li><a href="#reqs">Required Items</a></li>
-						<li><a href="#please-note">Please Note</a></li>
+						<li class="button button-primary"><a href="#outline">Outline</a></li>
+						<li class="button button-primary"><a href="#book">Required Books</a></li>
+						<li class="button button-primary" class="button button-primary"><a href="#marking">Marking</a></li>
+						<li class="button button-primary"><a href="#tailor">Tailor the Course</a></li>
+						<li class="button button-primary"><a href="#survey">Survey</a></li>
+						<li class="button button-primary"><a href="#intro">Introductions</a></li>
+						<li class="button button-primary"><a href="#yourturn">Your Turn</a></li>
+						<li class="button button-primary"><a href="#sp">Student Pages</a></li>
+						<li class="button button-primary"><a href="#coursesite">Course Web Site</a></li>
+						<li class="button button-primary"><a href="#reqs">Required Items</a></li>
+						<li class="button button-primary"><a href="#please-note">Please Note</a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
 	<!--#include virtual="/orion/footer.html" -->
+
 </body>
 </html>

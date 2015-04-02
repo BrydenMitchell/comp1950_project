@@ -1,15 +1,21 @@
 	*, html, body {
 		font-family: 'Open Sans', sans-serif;
 	}
-	
+	body {
+	}
+	div .row {
+		background-color: #FFFFFF;
+	}
 /* Header */
 	header {
-		background-color: #999
+		background-color: #bbbbbb;
+		width: 100%;
 	}
 	header h1 {
 		margin: 0px;
 		padding: 10px;
 		color: #FFF;
+		font-size: 250%;
 	}
 	header a {
 		color: #FFF;
@@ -18,12 +24,37 @@
 	header nav {
 		padding: 10px;
 	}
+/* nav */
+    nav li ul li {
+        width: 150px;
+    }
+    ul.slimmenu li {
+		padding: 0px;
+		margin: 0px;
+	}
+    @media only screen and (min-width: 801px) {
+        #news {
+            width: 75px;
+        }
+    }
 /* main content */
 	.bodyContent {
 		padding-left: 10%;
+		background-color: #FFFFFF;
 	}
+/* quicknav */
 	.quicknav {
 		height: 100%;
+		background-color: #FFFFFF;
+		text-align: center;
+
+	}
+	.quicknav ul li {
+		display: block;
+	}
+	.quicknav ul li a {
+		color: #FFFFFF;
+		text-decoration: none;
 	}
 /* footer */
 	footer, footer a {
