@@ -1,0 +1,32 @@
+	*, html, body {
+		font-family: 'Open Sans', sans-serif;
+	}
+	
+/* Header */
+	header {
+		background-color: #999
+	}
+	header h1 {
+		margin: 0px;
+		padding: 0px;
+		color: #FFF;
+	}
+	header a {
+		color: #FFF;
+		text-decoration: none;
+	}
+/* main content */
+	.bodyContent {
+		background-color: red;
+		padding-left: 10%;
+	}
+	.quicknav {
+		background-color: yellow;
+		height: 100%;
+	}
+/* footer */
+	footer, footer a {
+		background-color: #000;
+		color: #FFF;
+		text-decoration: none;
+	}
