@@ -11,27 +11,32 @@
 			<div class="twelve columns">
 				<div class="bodyContent">
 					<h1>Project Meta Page</h1>
-					<p>
 						Team contribution: </br>
-						Bryden Mitchell:</br>
-						<ul>
-							<li>Rational Page</li>
-							<li>Lecture Pages</li>
-							<li>Outline</li>
-							<li>main css</li>
-						</ul>
-
-						Douglas MacGregor:</br>
-						<ul>
-							<li>Navigation</li>
-						</ul>
-
-
-						Mark Su:</br>
-						<ul>
-							<li>Wireframe</li>
-						</ul>
-
+						<p>
+							<ul>
+							Bryden Mitchell:
+								<li>Rational Page</li>
+								<li>Lecture Pages</li>
+								<li>Outline</li>
+								<li>main css</li>
+							</ul>
+						</p>
+						<p>
+							<ul>
+							Douglas MacGregor:
+								<li>Navigation</li>
+								<li>Tumblr news page</li>
+							</ul>
+						</p>
+						<p>
+							<ul>
+							Mark Su:
+								<li>Wireframe</li>
+								<li>Sitemap</li>
+								<li>File structure setup</li>
+								<li>Header+Footer SSI setup</li>
+							</ul>
+						</p>
 						<h2>Links for the each requirements:</h2>
 				        <ul>
 				            <li><a href="/orion/index.shtml">proto-site page home</a></li>
@@ -48,13 +53,11 @@
 				            	</ul>
 				            </li>
 				            <li><a href="/orion/about/outline.shtml">proto-site page outline</a></li>
-				            <li><a href="#">proto-site page blog/news</a></li>
+				            <li><a href="http://comp1950projectorion.tumblr.com/">proto-site page blog/news</a></li>
 				            <li><a href="/orion/meta/wireframe.html">Wireframes</a></li>
-				            <li><a href="/orion/meta/">Content Area description</a></li>
-				            <li><a href="/orion/sitemap.html">Site Map</a></li>
+				            <li><a href="/orion/meta/sitemap.html">Site Map</a></li>
 				            <li><a href="/orion/meta/rational.shtml">Rationale Page</a></li>
 				        </ul>
-					</p>
 				</div>
 			</div>
 		</div>
