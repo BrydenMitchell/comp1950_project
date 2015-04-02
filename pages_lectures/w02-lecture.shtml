@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title>Home page of BCIT COMP 1950</title>
-	<!--#include virtual="/orion/headTags.html" -->
+  <!--#include virtual="/orion/headTags.html" -->
 </head>
 <body>
-	<!--#include virtual="/orion/header.html" -->
+  <!--#include virtual="/orion/header.html" -->
 	<div class="bodyContent">
   <h1 class="page-title">Week Two</h1>
   <h1 id="agenda">Agenda</h1>
@@ -645,6 +645,6 @@ audio, video, embed, mark, meter, progress, time, canvas, command, datagrid, det
 			<a href="/orion/meta/">meta page</a>
 		</p>
 	</div>
-	<!--#include virtual="/orion/footer.html" -->
+  <!--#include virtual="/orion/footer.html" -->
 </body>
 </html>

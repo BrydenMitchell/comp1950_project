@@ -5,7 +5,7 @@
   <!--#include virtual="/orion/headTags.html" -->
 </head>
 <body>
-	<!--#include virtual="/orion/header.html" -->
+  <!--#include virtual="/orion/header.html" -->
 	<div class="bodyContent">
 
 <h1 class="page-title">Week Three</h1>
@@ -642,6 +642,6 @@ This rule can cause havoc if overused, as it will overrule any other declaration
 			<a href="/orion/meta/">meta page</a>
 		</p>
 	</div>
-	<!--#include virtual="/orion/footer.html" -->
+  <!--#include virtual="/orion/footer.html" -->
 </body>
 </html>

@@ -5,93 +5,118 @@
 	<!--#include virtual="/orion/headTags.html" -->
 </head>
 <body>
-	<!--#include file="header.html"-->
-	<div class="bodyContent">
-		<h2>Outline</h2>
-		<p>Here is the current Course Outline (by week):</p>
-		<h4>Week 1</h4>
-		<ul>
-			<li>Course Introduction: (this week!)</li>
-			<li>What you will learn</li>
-			<li>Student Survey</li>
-			<li>Introductions</li>
-			<li>Account Set Up</li>
-			<li><em>Assignment 1: Course homepage</em></li>
-		</ul>
-		<h4>Week 2</h4>
-		<ul>
-			<li>Web Development tools</li>
-			<li>Standards</li>
-			<li>Ever-changing technology</li>
-			<li><em>Assignment 2: Using tools &amp; standards</em></li>
-		</ul>
-		<h4>Week 3</h4>
-		<ul>
-			<li>HTML &amp; CSS versions</li>
-			<li>History and current developments</li>
-			<li>Review of CSS</li>
-			<li><em>Assignment 3: Working with different MLs</em></li>
-		</ul>
-		<h4>Week 4</h4>
-		<ul>
-			<li>Quiz 1: Markup &amp; CSS</li>
-			<li>Building the presentation layer</li>
-			<li>Targeting audiences</li>
-			<li><em>Assignment 4: Using different stylesheets</em></li>
-		</ul>
-		<h4>Week 5</h4>
-		<ul>
-			<li>Flexible CSS</li>
-			<li>Layout and positioning</li>
-			<li><em>Assignment 5: Troubleshooting CSS, Positioning Exercises</em></li>
-		</ul>
-		<h4>Week 6</h4>
-		<ul>
-			<li>Server Side Includes</li>
-			<li>Dynamic information</li>
-			<li>Introduction to template development</li>
-			<li><em>Assignment 6: Template</em></li>
-		</ul>
-		<h4>Week 7</h4>
-		<ul>
-			<li><strong>Midterm</strong></li>
-			<li>More Template Development</li>
-			<li>HTML + CSS + Syntax</li>
-			<li><em>Assignment 7: Template II</em></li>
-		</ul>
-		<h4>Week 8</h4>
-		<ul>
-			<li>Development Methodology</li>
-			<li>Requirements, Design, Production, Launch, Maintenance</li>
-			<li><strong>Project outlined</strong></li>
-			<li><em>Assignment 8: Methodology Notes</em></li>
-		</ul>
-		<h4>Week 9</h4>
-		<ul>
-			<li>Behaviour</li>
-			<li>Aliing interactivity</li>
-			<li>JavaScript Libraries and Frameworks</li>
-			<li><em>Assignment 9: Javascript exercises</em></li>
-		</ul>
-		<h4>Week 10</h4>
-		<ul>
-			<li>Site Construction</li>
-			<li>Bringing it all together</li>
-			<li>Source/Revision Control using GIT</li>
-			<li><em>Assignment 10: Completed site</em></li>
-		</ul>
-		<h4>Week 11</h4>
-		<ul>
-			<li>Project Work</li>
-		</ul>
-		<h4>Week 12</h4>
-		<ul>
-			<li><strong>Final Examination</strong></li>
-		</ul>
-		<p>
-			<a href="/orion/meta/">meta page</a>
-		</p>
+	<!--#include virtual="/orion/header.html" -->
+	<div class="container">
+		<div class="row">
+			<div class="eight columns">
+				<div class="bodyContent">
+					<h2>Outline</h2>
+					<p>Here is the current Course Outline (by week):</p>
+					<h4 id="01">Week 1</h4>
+					<ul>
+						<li>Course Introduction: (this week!)</li>
+						<li>What you will learn</li>
+						<li>Student Survey</li>
+						<li>Introductions</li>
+						<li>Account Set Up</li>
+						<li><em>Assignment 1: Course homepage</em></li>
+					</ul>
+					<h4 id="02">Week 2</h4>
+					<ul>
+						<li>Web Development tools</li>
+						<li>Standards</li>
+						<li>Ever-changing technology</li>
+						<li><em>Assignment 2: Using tools &amp; standards</em></li>
+					</ul>
+					<h4 id="03">Week 3</h4>
+					<ul>
+						<li>HTML &amp; CSS versions</li>
+						<li>History and current developments</li>
+						<li>Review of CSS</li>
+						<li><em>Assignment 3: Working with different MLs</em></li>
+					</ul>
+					<h4 id="04">Week 4</h4>
+					<ul>
+						<li>Quiz 1: Markup &amp; CSS</li>
+						<li>Building the presentation layer</li>
+						<li>Targeting audiences</li>
+						<li><em>Assignment 4: Using different stylesheets</em></li>
+					</ul>
+					<h4 id="05">Week 5</h4>
+					<ul>
+						<li>Flexible CSS</li>
+						<li>Layout and positioning</li>
+						<li><em>Assignment 5: Troubleshooting CSS, Positioning Exercises</em></li>
+					</ul>
+					<h4 id="06">Week 6</h4>
+					<ul>
+						<li>Server Side Includes</li>
+						<li>Dynamic information</li>
+						<li>Introduction to template development</li>
+						<li><em>Assignment 6: Template</em></li>
+					</ul>
+					<h4 id="07">Week 7</h4>
+					<ul>
+						<li><strong>Midterm</strong></li>
+						<li>More Template Development</li>
+						<li>HTML + CSS + Syntax</li>
+						<li><em>Assignment 7: Template II</em></li>
+					</ul>
+					<h4 id="08">Week 8</h4>
+					<ul>
+						<li>Development Methodology</li>
+						<li>Requirements, Design, Production, Launch, Maintenance</li>
+						<li><strong>Project outlined</strong></li>
+						<li><em>Assignment 8: Methodology Notes</em></li>
+					</ul>
+					<h4 id="09">Week 9</h4>
+					<ul>
+						<li>Behaviour</li>
+						<li>Aliing interactivity</li>
+						<li>JavaScript Libraries and Frameworks</li>
+						<li><em>Assignment 9: Javascript exercises</em></li>
+					</ul>
+					<h4 id="10">Week 10</h4>
+					<ul>
+						<li>Site Construction</li>
+						<li>Bringing it all together</li>
+						<li>Source/Revision Control using GIT</li>
+						<li><em>Assignment 10: Completed site</em></li>
+					</ul>
+					<h4 id="11">Week 11</h4>
+					<ul>
+						<li>Project Work</li>
+					</ul>
+					<h4 id="12">Week 12</h4>
+					<ul>
+						<li><strong>Final Examination</strong></li>
+					</ul>
+					<p>
+						<a href="/orion/meta/">meta page</a>
+					</p>
+				</div>
+			</div>
+			<div class="four columns">
+				<div class="quicknav">
+					<h2>Quicknav</h2>
+					<ul>
+						<li class="button button-primary"><a href="#01">Week 1</a></li>
+						<li class="button button-primary"><a href="#02">Week 2</a></li>
+						<li class="button button-primary"><a href="#03">Week 3</a></li>
+						<li class="button button-primary"><a href="#04">Week 4</a></li>
+						<li class="button button-primary"><a href="#05">Week 5</a></li>
+						<li class="button button-primary"><a href="#06">Week 6</a></li>
+						<li class="button button-primary"><a href="#07">Week 7</a></li>
+						<li class="button button-primary"><a href="#08">Week 8</a></li>
+						<li class="button button-primary"><a href="#09">Week 9</a></li>
+						<li class="button button-primary"><a href="#10">Week 10</a></li>
+						<li class="button button-primary"><a href="#11">Week 11</a></li>
+						<li class="button button-primary"><a href="#12">Week 12</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 	</div>
-	<!--#include file="footer.html"-->
+	<!--#include virtual="/orion/footer.html" -->
 </body>
 </html>

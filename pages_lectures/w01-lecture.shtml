@@ -178,7 +178,7 @@
 					<ul>
 						<li class="button button-primary"><a href="#outline">Outline</a></li>
 						<li class="button button-primary"><a href="#book">Required Books</a></li>
-						<li class="button button-primary" class="button button-primary"><a href="#marking">Marking</a></li>
+						<li class="button button-primary"><a href="#marking">Marking</a></li>
 						<li class="button button-primary"><a href="#tailor">Tailor the Course</a></li>
 						<li class="button button-primary"><a href="#survey">Survey</a></li>
 						<li class="button button-primary"><a href="#intro">Introductions</a></li>

@@ -6,6 +6,9 @@
 	div .row {
 		background-color: #FFFFFF;
 	}
+	h1, h2, h3 {
+		border-bottom: 1px solid #1EAEDB;
+	}
 /* Header */
 	header {
 		background-color: #bbbbbb;
@@ -23,6 +26,9 @@
 	}
 	header nav {
 		padding: 10px;
+	}
+	header h1 {
+		border: none;
 	}
 /* nav */
     nav li ul li {
@@ -55,6 +61,9 @@
 	.quicknav ul li a {
 		color: #FFFFFF;
 		text-decoration: none;
+	}
+	.quicknav > h2 {
+		border: none;
 	}
 /* footer */
 	footer, footer a {

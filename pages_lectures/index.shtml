@@ -6,173 +6,193 @@
 </head>
 <body>
 	<!--#include virtual="/orion/header.html" -->
-	<div class="bodyContent">
-		<h1>Week 1</h1>
-		<p>Let&#39;s take a look at how COMP 1950 is structured.</p>
-		<h2>Outline</h2>
-		<p>Here is the current Course Outline (by week):</p>
-		<h4>Week 1</h4>
-		<ul>
-			<li>Course Introduction: (this week!)</li>
-			<li>What you will learn</li>
-			<li>Student Survey</li>
-			<li>Introductions</li>
-			<li>Account Set Up</li>
-			<li><em>Assignment 1: Course homepage</em></li>
-		</ul>
-		<h4>Week 2</h4>
-		<ul>
-			<li>Web Development tools</li>
-			<li>Standards</li>
-			<li>Ever-changing technology</li>
-			<li><em>Assignment 2: Using tools &amp; standards</em></li>
-		</ul>
-		<h4>Week 3</h4>
-		<ul>
-			<li>HTML &amp; CSS versions</li>
-			<li>History and current developments</li>
-			<li>Review of CSS</li>
-			<li><em>Assignment 3: Working with different MLs</em></li>
-		</ul>
-		<h4>Week 4</h4>
-		<ul>
-			<li>Quiz 1: Markup &amp; CSS</li>
-			<li>Building the presentation layer</li>
-			<li>Targeting audiences</li>
-			<li><em>Assignment 4: Using different stylesheets</em></li>
-		</ul>
-		<h4>Week 5</h4>
-		<ul>
-			<li>Flexible CSS</li>
-			<li>Layout and positioning</li>
-			<li><em>Assignment 5: Troubleshooting CSS, Positioning Exercises</em></li>
-		</ul>
-		<h4>Week 6</h4>
-		<ul>
-			<li>Server Side Includes</li>
-			<li>Dynamic information</li>
-			<li>Introduction to template development</li>
-			<li><em>Assignment 6: Template</em></li>
-		</ul>
-		<h4>Week 7</h4>
-		<ul>
-			<li><strong>Midterm</strong></li>
-			<li>More Template Development</li>
-			<li>HTML + CSS + Syntax</li>
-			<li><em>Assignment 7: Template II</em></li>
-		</ul>
-		<h4>Week 8</h4>
-		<ul>
-			<li>Development Methodology</li>
-			<li>Requirements, Design, Production, Launch, Maintenance</li>
-			<li><strong>Project outlined</strong></li>
-			<li><em>Assignment 8: Methodology Notes</em></li>
-		</ul>
-		<h4>Week 9</h4>
-		<ul>
-			<li>Behaviour</li>
-			<li>Aliing interactivity</li>
-			<li>JavaScript Libraries and Frameworks</li>
-			<li><em>Assignment 9: Javascript exercises</em></li>
-		</ul>
-		<h4>Week 10</h4>
-		<ul>
-			<li>Site Construction</li>
-			<li>Bringing it all together</li>
-			<li>Source/Revision Control using GIT</li>
-			<li><em>Assignment 10: Completed site</em></li>
-		</ul>
-		<h4>Week 11</h4>
-		<ul>
-			<li>Project Work</li>
-		</ul>
-		<h4>Week 12</h4>
-		<ul>
-			<li><strong>Final Examination</strong></li>
-		</ul>
-		<h2>Book for the course</h2>
-		<p>I don&#39;t have a book for this course, because there is just too much to teach at an intermediate level. I have yet to find a book adequate.</p>
-		<p>However, certain subjects have excellent books and I&#39;ll mention them during the lecture. You are not required to buy them, but are encouraged to take a look if interested.</p>
-		<h2>Marking</h2>
-		<p>I don&#39;t mark individual homework assignments. I mark them as a whole at the end of the course.</p>
-		<p>Instead, I give feedback on each assignment so you know how you are doing.</p>
-		<p>Quizzes, Midterms, the Project and Final are all marked and I will share those marks with you the week after.</p>
-		<h2>Other subjects? Tailor the course!</h2>
-		<ul>
-			<li>What would you like to learn about?</li>
-			<li>What are you most interested in learning?</li>
-			<li>What skills would you like to acquire?</li>
-			<li>Are there subjects not covered here?</li>
-			<li>Brief introduction to myBCIT and a course survey</li>
-		</ul>
-		<h2>Take survey now</h2>
-		<p>I&#39;ll give you instructions on how to get there, don&#39;t worry.</p>
-		<h2>Introductions</h2>
-		<p>First we&#39;ll start with me, then we&#39;ll go around the room. Don&#39;t worry, you won&#39;t have to actually introduce yourself.</p>
-		<h3>About Alistair</h3>
-		<ul>
-			<li>Web Developer since 1995</li>
-			<li>Lead web developer for:
-				<ul>
-					<li>Top Producer Systems</li>
-					<li>Multiactive</li>
-					<li>One Atmosphere (my own development firm)</li>
-				</ul>
-			</li>
-			<li>Currently: Technical lead on student portal, myBCIT</li>
-			<li>Broad knowledge set focussed mainly on web technologies</li>
-		</ul>
-		<h3>Little know trivia</h3>
-		<p>Snuck into the construction site of the Rogers Cantel building, took the elevator up and locked myself out on the roof by accident. Had to call a friend, convince him of my story, then further convince him to sneak past the guard, and break me back into the building.</p>
-		<h3>Your turn</h3>
-		<ul>
-		  <li>Name</li>
-		  <li>Current occupation</li>
-		  <li>Web development experience</li>
-		  <li>Little-known trivia</li>
-		</ul>
-		<p>Keep it pretty short, but to the point.  The important part is <strong>I want to know who you are and why you are here</strong>.</p>
-		<h2>Student Pages</h2>
-		<p>Each student will get web space. This may be different than in the past, as this space is exclusively yours, with your own username and password.</p>
-		<p>This is also <strong>not</strong> a continuation of your COMP1850 site (if you had one). This site is primarily for you to house your exercises, assignments, group work and more. Make it a site that is usable and functional.</p>
-		<p>I will be calling each of you up so you can enter a password - this can be anything you like but <em>please make it secure</em>.  We live in a time when secure passwords are an absolute necessity.</p>
-		<p><a href="/studentpages">More information on student pages</a>.</p>
-		<h2>Course web site</h2>
-		<p>Your course web site should be a location that your client (who is also your instructor) can easily acccess information about you or your homework.</p>
-		<p>Check out the example page created by a past student: <a href="http://past.thenet.ca/lori/">Lori&#39;s Example</a></p>
-		<h3>Required items</h3>
-		<ul>
-		  <li>On your homepage:
-		    <ul>
-		      <li>some basic information about yourself (such as from your introduction today)</li>
-		      <li>include a photo (so I know who is who)</li>
-		    </ul>
-		  </li>
-		  <li>For week one, please be sure these elements are added somewhere:
-		    <ul>
-		      <li>A brief overview of your web development skill level</li>
-		      <li>Description of web development work you have done so far (links to examples or screenshots)</li>
-		      <li>Links to favourite sites, either because of esthetic, technology, etc</li>
-		      <li>A list of applications, tools, browser plug-ins or IDEs that you use for web development. Include a link to each of these tools.</li>
-		    </ul>
-		  </li>
-		</ul>
-		<p>Use your understanding of HTML and CSS to the limit of your knowledge, but ensure that it is usable, presentable and coherent</p>
-		<h3 id="please-note">Please note!</h3>
-		<ul>
-		  <li>Link to exercises and assignments by the appropriate week. Don&#39;t make me have to search for your homework.</li>
-		  <li>No Javascript <strong>at all</strong> (this will change after Week 1)</li>
-		  <li>There needs to be a link from the myBCIT Members page to your Student Homepage</li>
-		</ul>
-
-
-
-
-
-		<p>
-			<a href="/orion/meta/">meta page</a>
-		</p>
+	<div class="container">
+		<div class="row">
+			<div class="eight columns">
+				<div class="bodyContent">
+					<h1>Week 1</h1>
+					<p>Let&#39;s take a look at how COMP 1950 is structured.</p>
+					<h2 id="outline">Outline</h2>
+					<p>Here is the current Course Outline (by week):</p>
+					<h4>Week 1</h4>
+					<ul>
+						<li>Course Introduction: (this week!)</li>
+						<li>What you will learn</li>
+						<li>Student Survey</li>
+						<li>Introductions</li>
+						<li>Account Set Up</li>
+						<li><em>Assignment 1: Course homepage</em></li>
+					</ul>
+					<h4>Week 2</h4>
+					<ul>
+						<li>Web Development tools</li>
+						<li>Standards</li>
+						<li>Ever-changing technology</li>
+						<li><em>Assignment 2: Using tools &amp; standards</em></li>
+					</ul>
+					<h4>Week 3</h4>
+					<ul>
+						<li>HTML &amp; CSS versions</li>
+						<li>History and current developments</li>
+						<li>Review of CSS</li>
+						<li><em>Assignment 3: Working with different MLs</em></li>
+					</ul>
+					<h4>Week 4</h4>
+					<ul>
+						<li>Quiz 1: Markup &amp; CSS</li>
+						<li>Building the presentation layer</li>
+						<li>Targeting audiences</li>
+						<li><em>Assignment 4: Using different stylesheets</em></li>
+					</ul>
+					<h4>Week 5</h4>
+					<ul>
+						<li>Flexible CSS</li>
+						<li>Layout and positioning</li>
+						<li><em>Assignment 5: Troubleshooting CSS, Positioning Exercises</em></li>
+					</ul>
+					<h4>Week 6</h4>
+					<ul>
+						<li>Server Side Includes</li>
+						<li>Dynamic information</li>
+						<li>Introduction to template development</li>
+						<li><em>Assignment 6: Template</em></li>
+					</ul>
+					<h4>Week 7</h4>
+					<ul>
+						<li><strong>Midterm</strong></li>
+						<li>More Template Development</li>
+						<li>HTML + CSS + Syntax</li>
+						<li><em>Assignment 7: Template II</em></li>
+					</ul>
+					<h4>Week 8</h4>
+					<ul>
+						<li>Development Methodology</li>
+						<li>Requirements, Design, Production, Launch, Maintenance</li>
+						<li><strong>Project outlined</strong></li>
+						<li><em>Assignment 8: Methodology Notes</em></li>
+					</ul>
+					<h4>Week 9</h4>
+					<ul>
+						<li>Behaviour</li>
+						<li>Aliing interactivity</li>
+						<li>JavaScript Libraries and Frameworks</li>
+						<li><em>Assignment 9: Javascript exercises</em></li>
+					</ul>
+					<h4>Week 10</h4>
+					<ul>
+						<li>Site Construction</li>
+						<li>Bringing it all together</li>
+						<li>Source/Revision Control using GIT</li>
+						<li><em>Assignment 10: Completed site</em></li>
+					</ul>
+					<h4>Week 11</h4>
+					<ul>
+						<li>Project Work</li>
+					</ul>
+					<h4>Week 12</h4>
+					<ul>
+						<li><strong>Final Examination</strong></li>
+					</ul>
+					<h2 id="book">Book for the course</h2>
+					<p>I don&#39;t have a book for this course, because there is just too much to teach at an intermediate level. I have yet to find a book adequate.</p>
+					<p>However, certain subjects have excellent books and I&#39;ll mention them during the lecture. You are not required to buy them, but are encouraged to take a look if interested.</p>
+					<h2 id="marking">Marking</h2>
+					<p>I don&#39;t mark individual homework assignments. I mark them as a whole at the end of the course.</p>
+					<p>Instead, I give feedback on each assignment so you know how you are doing.</p>
+					<p>Quizzes, Midterms, the Project and Final are all marked and I will share those marks with you the week after.</p>
+					<h2 id="tailor">Other subjects? Tailor the course!</h2>
+					<ul>
+						<li>What would you like to learn about?</li>
+						<li>What are you most interested in learning?</li>
+						<li>What skills would you like to acquire?</li>
+						<li>Are there subjects not covered here?</li>
+						<li>Brief introduction to myBCIT and a course survey</li>
+					</ul>
+					<h2 id="survey">Take survey now</h2>
+					<p>I&#39;ll give you instructions on how to get there, don&#39;t worry.</p>
+					<h2 id="intro">Introductions</h2>
+					<p>First we&#39;ll start with me, then we&#39;ll go around the room. Don&#39;t worry, you won&#39;t have to actually introduce yourself.</p>
+					<h3>About Alistair</h3>
+					<ul>
+						<li>Web Developer since 1995</li>
+						<li>Lead web developer for:
+							<ul>
+								<li>Top Producer Systems</li>
+								<li>Multiactive</li>
+								<li>One Atmosphere (my own development firm)</li>
+							</ul>
+						</li>
+						<li>Currently: Technical lead on student portal, myBCIT</li>
+						<li>Broad knowledge set focussed mainly on web technologies</li>
+					</ul>
+					<h3>Little know trivia</h3>
+					<p>Snuck into the construction site of the Rogers Cantel building, took the elevator up and locked myself out on the roof by accident. Had to call a friend, convince him of my story, then further convince him to sneak past the guard, and break me back into the building.</p>
+					<h3 id="yourturn">Your turn</h3>
+					<ul>
+					  <li>Name</li>
+					  <li>Current occupation</li>
+					  <li>Web development experience</li>
+					  <li>Little-known trivia</li>
+					</ul>
+					<p>Keep it pretty short, but to the point.  The important part is <strong>I want to know who you are and why you are here</strong>.</p>
+					<h2 id="sp">Student Pages</h2>
+					<p>Each student will get web space. This may be different than in the past, as this space is exclusively yours, with your own username and password.</p>
+					<p>This is also <strong>not</strong> a continuation of your COMP1850 site (if you had one). This site is primarily for you to house your exercises, assignments, group work and more. Make it a site that is usable and functional.</p>
+					<p>I will be calling each of you up so you can enter a password - this can be anything you like but <em>please make it secure</em>.  We live in a time when secure passwords are an absolute necessity.</p>
+					<p><a href="/studentpages">More information on student pages</a>.</p>
+					<h2 id="coursesite">Course web site</h2>
+					<p>Your course web site should be a location that your client (who is also your instructor) can easily acccess information about you or your homework.</p>
+					<p>Check out the example page created by a past student: <a href="http://past.thenet.ca/lori/">Lori&#39;s Example</a></p>
+					<h3 id="reqs">Required items</h3>
+					<ul>
+					  <li>On your homepage:
+					    <ul>
+					      <li>some basic information about yourself (such as from your introduction today)</li>
+					      <li>include a photo (so I know who is who)</li>
+					    </ul>
+					  </li>
+					  <li>For week one, please be sure these elements are added somewhere:
+					    <ul>
+					      <li>A brief overview of your web development skill level</li>
+					      <li>Description of web development work you have done so far (links to examples or screenshots)</li>
+					      <li>Links to favourite sites, either because of esthetic, technology, etc</li>
+					      <li>A list of applications, tools, browser plug-ins or IDEs that you use for web development. Include a link to each of these tools.</li>
+					    </ul>
+					  </li>
+					</ul>
+					<p>Use your understanding of HTML and CSS to the limit of your knowledge, but ensure that it is usable, presentable and coherent</p>
+					<h3 id="please-note">Please note!</h3>
+					<ul>
+					  <li>Link to exercises and assignments by the appropriate week. Don&#39;t make me have to search for your homework.</li>
+					  <li>No Javascript <strong>at all</strong> (this will change after Week 1)</li>
+					  <li>There needs to be a link from the myBCIT Members page to your Student Homepage</li>
+					</ul>
+					<p>
+						<a href="/orion/meta/">meta page</a>
+					</p>
+				</div>
+			</div>
+			<div class="four columns">
+				<div class="quicknav">
+					<h2>Quicknav</h2>
+					<ul>
+						<li class="button button-primary"><a href="#outline">Outline</a></li>
+						<li class="button button-primary"><a href="#book">Required Books</a></li>
+						<li class="button button-primary"><a href="#marking">Marking</a></li>
+						<li class="button button-primary"><a href="#tailor">Tailor the Course</a></li>
+						<li class="button button-primary"><a href="#survey">Survey</a></li>
+						<li class="button button-primary"><a href="#intro">Introductions</a></li>
+						<li class="button button-primary"><a href="#yourturn">Your Turn</a></li>
+						<li class="button button-primary"><a href="#sp">Student Pages</a></li>
+						<li class="button button-primary"><a href="#coursesite">Course Web Site</a></li>
+						<li class="button button-primary"><a href="#reqs">Required Items</a></li>
+						<li class="button button-primary"><a href="#please-note">Please Note</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 	</div>
 	<!--#include virtual="/orion/footer.html" -->
+
 </body>
 </html>

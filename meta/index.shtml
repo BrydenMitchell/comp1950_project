@@ -16,8 +16,9 @@
 						Bryden Mitchell:</br>
 						<ul>
 							<li>Rational Page</li>
-							<li>Lecture Page (WIP)</li>
-							<li>Outline (WIP)</li>
+							<li>Lecture Pages</li>
+							<li>Outline</li>
+							<li>main css</li>
 						</ul>
 
 						Douglas MacGregor:</br>
@@ -33,8 +34,20 @@
 
 						<h2>Links for the each requirements:</h2>
 				        <ul>
-				            <li><a href="/orion/">proto-site page home</a></li>
-				            <li><a href="/orion/lectures/">proto-site page lecture</a></li>
+				            <li><a href="/orion/index.shtml">proto-site page home</a></li>
+				            <li><a href="/orion/lectures/index.shtml">proto-site page lecture</a>
+				            	<ul>
+				            		<li><a href="/orion/lectures/w01-lecture.shtml">proto-site page lecture week 1</a>
+				            		<li><a href="/orion/lectures/w02-lecture.shtml">proto-site page lecture week 2</a>
+				            		<li><a href="/orion/lectures/w03-lecture.shtml">proto-site page lecture week 3</a>
+				            		<li><a href="/orion/lectures/w04-lecture.shtml">proto-site page lecture week 4</a>
+				            		<li><a href="/orion/lectures/w05-lecture.shtml">proto-site page lecture week 5</a>
+				            		<li><a href="/orion/lectures/w06-lecture.shtml">proto-site page lecture week 6</a>
+				            		<li><a href="/orion/lectures/w08-lecture.shtml">proto-site page lecture week 8</a>
+				            		<li><a href="/orion/lectures/w09-lecture.shtml">proto-site page lecture week 9</a>
+				            	</ul>
+				            </li>
+				            <li><a href="/orion/about/outline.shtml">proto-site page outline</a></li>
 				            <li><a href="#">proto-site page blog/news</a></li>
 				            <li><a href="/orion/meta/wireframe.html">Wireframes</a></li>
 				            <li><a href="/orion/meta/">Content Area description</a></li>
